@@ -34,10 +34,6 @@ It focuses on creating a basic single-page layout using fundamental HTML tags to
 
 ---
 
-### 📂 Project Structure
-
----
-
 ### 🚀 How to Run
 1. Open the repository
 2. Open `landingpage.html` in any web browser
